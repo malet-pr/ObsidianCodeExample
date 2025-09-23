@@ -1,0 +1,40 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "vue": 1,
+    "vue/todo": 1,
+    "vue/composables": 2,
+    "vue/composables/code": 1,
+    "composable": 2,
+    "code": 3,
+    "todo": 4,
+    "gcc": 5,
+    "performance": 6,
+    "detalle-acta": 7,
+    "java": 8,
+    "nativeeQuery": 9,
+    "class-based": 10,
+    "dto-projection": 11,
+    "nativeQuery": 12,
+    "hibernate": 13,
+    "jpa": 14,
+    "SqlResultSetMapping": 15,
+    "interface-based": 16,
+    "modelMapper": 17,
+    "mapStruct": 18,
+    "jdbcTemplate": 19,
+    "jdbc": 20,
+    "rowMapper": 21,
+    "customRepository": 22
+  },
+  "_version": 3
+}

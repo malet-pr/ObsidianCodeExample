@@ -1,0 +1,51 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiNotepadText",
+      "LiCode2",
+      "LiSheet",
+      "LiListTodo",
+      "LiList"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "DATOS/Usuarios appdom.md": "LiUsers",
+  "CAPTURAS/error-pantalla-validacion-ot-redes.png": "☹",
+  "FIELD MANAGER/VUE/Revisar - Hacer.md": "LiListTodo",
+  "CAPTURAS/problemaFechaDetalleActa1.png": "☹",
+  "CAPTURAS/problemaFechaDetalleActa2.png": "☹",
+  "FIELD MANAGER/GCC/Detalle Actas/Nueva Búsqueda.md": "LiListTodo",
+  "FIELD MANAGER/GCC/Snipets/Habilitar Calificación.md": "LiCode2",
+  "FIELD MANAGER/GM/Impacto Bajada CSG/Notas.md": "LiList",
+  "DOCS/traspaso eventos.md": "LiSheet",
+  "DOCS/traspaso redes.md": "LiSheet",
+  "FIELD MANAGER/GCC/Snipets/Cache para Drools.md": "LiCode2",
+  "FIELD MANAGER/GCC/Notas para cache drools.md": "LiNotepadText",
+  "FIELD MANAGER/GCC/Detalle Actas/Nueva Búsqueda - Continuación.md": "LiListTodo",
+  "FIELD MANAGER/VUE/Composable Exportar a Excel 1.md": "LiCode2"
+}
