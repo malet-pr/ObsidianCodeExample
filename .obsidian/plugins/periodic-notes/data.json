@@ -4,7 +4,7 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "DD-MM-YYYY",
-    "folder": "NOTAS",
+    "folder": "NOTES",
     "template": "TEMPLATES/DailyNotesTemplate.md",
     "enabled": true
   },

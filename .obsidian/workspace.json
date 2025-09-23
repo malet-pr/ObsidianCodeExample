@@ -228,7 +228,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,9 +256,10 @@
   },
   "active": "785ed490ee5a02d4",
   "lastOpenFiles": [
+    "NOTES/23-09-2025.md",
     "NOTAS/prueba git.md",
     "NUXT",
-    "NOTAS",
+    "NOTES",
     "TEMPLATES/DailyNotesTemplate.md",
     "TEMPLATES/WeeklyNotesTemplate.md",
     "TEMPLATES",
