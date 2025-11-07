@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b900d30459033f",
+        "id": "f0d741fc422c8a17",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd3506d98bd2424",
+            "id": "1a7141d5c4721f98",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Sin título.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Sin título"
             }
           }
         ]
@@ -247,15 +251,19 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-importer:Open Importer": false,
       "copilot:Open Copilot Chat": false,
-      "periodic-notes:Open today": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "sheet-plus:Create excel file": false,
+      "periodic-notes:Open today": false,
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "785ed490ee5a02d4",
+  "active": "1a7141d5c4721f98",
   "lastOpenFiles": [
+    "JAVA/Sin título.md",
+    "JAVA/Mapeo query nativa/Interface-based DTO projection.md",
+    "JAVA/Mapeo query nativa/Class-based DTO projection.md",
+    "JAVA/Mapeo query nativa/JDBC templates.md",
     "NOTES/23-09-2025.md",
     "NOTAS/prueba git.md",
     "NUXT",
@@ -267,9 +275,6 @@
     "core plugins.md",
     "VUE/Composable Exportar a Excel.md",
     "VUE",
-    "JAVA/Mapeo query nativa/JDBC templates.md",
-    "JAVA/Mapeo query nativa/Interface-based DTO projection.md",
-    "JAVA/Mapeo query nativa/Class-based DTO projection.md",
     "JAVA/Mapeo query nativa/1 - Comparative table.md",
     "JAVA/Mapeo query nativa",
     "JAVA",
