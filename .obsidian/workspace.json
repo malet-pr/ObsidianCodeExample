@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Sin título.md",
+                "file": "JAVA/Process Parameters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "Process Parameters"
             }
           }
         ]
@@ -260,7 +260,7 @@
   },
   "active": "1a7141d5c4721f98",
   "lastOpenFiles": [
-    "JAVA/Sin título.md",
+    "JAVA/Process Parameters.md",
     "JAVA/Mapeo query nativa/Interface-based DTO projection.md",
     "JAVA/Mapeo query nativa/Class-based DTO projection.md",
     "JAVA/Mapeo query nativa/JDBC templates.md",
