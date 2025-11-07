@@ -1,4 +1,3 @@
-
 ##### Full example
 
 ```java title:"Java 21 - Map" fold:true
@@ -104,6 +103,39 @@ public static Map<String, String> nonNullFields(Object dto) {
         })
         .filter(Objects::nonNull)
         .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));
+}
+```
+
+##### Non-null params from Map
+
+```java title:"Java 11" fold:true
+public Map<String, Object> nonNullFields(Object obj) {  
+    return Arrays.stream(obj.getClass().getDeclaredFields())  
+            .filter(f -> !List.class.isAssignableFrom(f.getType()))  
+            .peek(f -> f.setAccessible(true))  
+            .map(f -> {  
+                try {  
+                    Object value = f.get(obj);  
+                    if (value == null) return null;  
+                    if (value instanceof String) {  
+                        String str = (String) value;  
+                        if (str.isBlank()) return null;  
+                        return new AbstractMap.SimpleEntry<>(f.getName(), str);  
+                    } else if (value instanceof BigDecimal) {  
+                        return new AbstractMap.SimpleEntry<>(f.getName(), ((BigDecimal) value));  
+                    } else if (value instanceof Number) {  
+                        return new AbstractMap.SimpleEntry<>(f.getName(), value);  
+                    } else if (value instanceof Date) {  
+                        return new AbstractMap.SimpleEntry<>(f.getName(), value);  
+                    } else {  
+                        return new AbstractMap.SimpleEntry<>(f.getName(), value);  
+                    }  
+                } catch (IllegalAccessException e) {  
+                    throw new RuntimeException("Error accessing field: " + f.getName(), e);  
+                }  
+            })  
+            .filter(Objects::nonNull)  
+            .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue));  
 }
 ```
 
