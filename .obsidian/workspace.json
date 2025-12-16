@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "f0d741fc422c8a17",
+        "id": "90f7a4c6a9e66259",
         "type": "tabs",
         "children": [
           {
-            "id": "1a7141d5c4721f98",
+            "id": "9e0848d345d8b3d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Process Parameters.md",
+                "file": "JAVA/Caches/2 - Off-Heap memory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Process Parameters"
+              "title": "2 - Off-Heap memory"
+            }
+          },
+          {
+            "id": "c0ec067b3b566f97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Process to run once at startup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Process to run once at startup"
+            }
+          },
+          {
+            "id": "c61b747fcdb1b4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Caches/4 - Kryo Serializer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 - Kryo Serializer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,9 +287,15 @@
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "1a7141d5c4721f98",
+  "active": "c0ec067b3b566f97",
   "lastOpenFiles": [
+    "JAVA/Caches/3 - Ehcache 3.md",
+    "JAVA/Process to run once at startup.md",
+    "JAVA/Caches/4 - Kryo Serializer.md",
+    "JAVA/Caches/2 - Off-Heap memory.md",
+    "JAVA/Caches/1- Caffeine.md",
     "JAVA/Process Parameters.md",
+    "JAVA/Caches",
     "JAVA/Mapeo query nativa/Interface-based DTO projection.md",
     "JAVA/Mapeo query nativa/Class-based DTO projection.md",
     "JAVA/Mapeo query nativa/JDBC templates.md",
