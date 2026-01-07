@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b900d30459033f",
+        "id": "157d2aeb55bfd19b",
         "type": "tabs",
         "children": [
           {
-            "id": "7bd3506d98bd2424",
+            "id": "abd22f71d2d8bc28",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Mapeo query nativa/Stream de queries nativas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Stream de queries nativas"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
@@ -225,6 +229,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "d8194bc0e0f9a865",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a62d67b6c376a79",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Map of Content"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -233,29 +253,34 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
-      "markdown-importer:Abrir el importador de Markdown": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false,
-      "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-importer:Open Importer": false,
       "copilot:Open Copilot Chat": false,
-      "periodic-notes:Open today": false,
       "obsidian-read-it-later:ReadItLater: Create from clipboard": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "sheet-plus:Create excel file": false,
+      "periodic-notes:Open today": false,
       "map-of-content:Update Map of Content": false
     }
   },
-  "active": "785ed490ee5a02d4",
+  "active": "abd22f71d2d8bc28",
   "lastOpenFiles": [
+    "JAVA/Mapeo query nativa/Stream de queries nativas.md",
+    "VUE/1 - DOCUMENTS/Built-inDirectives.md",
+    "VUE/COMPOSABLES",
+    "VUE/Untitled.md",
+    "NOTES",
     "NOTES/23-09-2025.md",
     "NOTAS/prueba git.md",
     "NUXT",
@@ -265,7 +290,7 @@
     "TEMPLATES",
     "community plugins.md",
     "core plugins.md",
-    "VUE/Composable Exportar a Excel.md",
+    "VUE/COMPOSABLES/Composable Exportar a Excel.md",
     "VUE",
     "JAVA/Mapeo query nativa/JDBC templates.md",
     "JAVA/Mapeo query nativa/Interface-based DTO projection.md",
